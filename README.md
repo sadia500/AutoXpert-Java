@@ -1,6 +1,6 @@
-AutoXpert
+#AutoXpert
 
-Overview
+##Overview
 AutoXpert is a Java-based desktop application designed to automate operations for a car AC parts business. It streamlines inventory management, sales, and user interactions for both customers and administrators. Developed as part of an Object-Oriented Programming Lab project at Bahria University Karachi Campus, it addresses real-world challenges in the automotive industry by providing efficient tracking, secure transactions, and insightful analytics.
 Features
 
@@ -12,21 +12,20 @@ Features
 🖥 Intuitive GUI – User-friendly dashboards for admins and customers built with Java Swing.
 ✅ Data Validation – Ensures accurate input for transactions and inventory.
 
-Technologies Used
+##Technologies Used
 
 Java – Core backend logic and OOP principles.
 Java Swing – GUI development for interactive interfaces.
 NetBeans IDE – Development environment for coding and debugging.
 In-memory/File-based Storage – For persisting data (no external database required).
 
-Setup Instructions
-Prerequisites
+##Setup Instructions
 Ensure the following are installed:
 
 JDK 23
 NetBeans IDE 24
 
-Build and Run the Application
+##Build and Run the Application
 
 Clone the repository:git clone https://github.com/sadia500/AutoXpert-Java.git
 cd AutoXpert-Java
@@ -40,7 +39,7 @@ Run the LoginForm.java.
 Using Command Line (if using Maven or Ant, adapt accordingly):javac *.java
 java Main
 
-Usage
+##Usage
 
 Login/Register: Secure authentication to access dashboards.
 Customer Dashboard: Search parts, add to cart, view cart, place orders, and manage profile.
@@ -48,7 +47,7 @@ Admin Dashboard: Manage inventory, view analytics, process transactions, and gen
 Product Categories: Includes Cooling Coils, Compressors, and Condensers with brand options.
 Transactions: Handle payments and invoices for every order.
 
-Contributors
+##Contributors
 
 Sadia Saeed (Leader) 
 Maheen Fatima
