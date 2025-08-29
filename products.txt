@@ -1,0 +1,20 @@
+P001,Compressor,Denso,12000.0,5
+P002,Condenser,Sanden,8000.0,3
+P003,Evaporator,Valeo,6500.0,7
+P004,Receiver,Sanden,3000.0,12
+P005,Expansion Valve,Denso,1500.0,20
+P006,Accumulator,Valeo,2000.0,15
+P007,Blower Motor,Bosch,4500.0,8
+P008,Thermostat,Denso,1800.0,16
+P009,Pressure Switch,Sanden,2200.0,9
+P010,Climate Control Module,Valeo,9000.0,4
+P011,Receiver Drier,Denso,3500.0,11
+P012,Condenser Fan,Bosch,4000.0,10
+P013,Heater Core,Valeo,5000.0,6
+P014,Pressure Sensor,Sanden,2100.0,7
+P015,Control Wire Harness,Denso,2600.0,10
+P016,AC Hose,Valeo,3200.0,13
+P017,AC Compressor Clutch,Bosch,7800.0,5
+P018,Cooling Fan,Valeo,4200.0,9
+P019,Blower Resistor,Sanden,2300.0,8
+P020,AC Control Panel,Denso,8800.0,3

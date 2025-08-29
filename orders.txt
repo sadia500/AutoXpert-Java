@@ -1,0 +1,125 @@
+OrderID: ORD1747727277799, Status: CONFIRMED, Total: $8800.0
+   -> AC Control Panel | Denso | $8800.0
+OrderID: ORD1747834233169, Status: CONFIRMED, Total: $2300.0
+   -> Blower Resistor | Sanden | $2300.0
+OrderID: ORD1747834272746, Status: CONFIRMED, Total: $7800.0
+   -> AC Compressor Clutch | Bosch | $7800.0
+OrderID: ORD123, Status: CONFIRMED, Total: $150.0
+   -> AC Compressor | BrandX | $120.0
+   -> AC Filter | BrandY | $30.0
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 5
+   -> AC Filter | BrandY | $30.0 | Qty: 3
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 4
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD456, Status: CONFIRMED, Total: $30.0
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0, Payment Method: Credit Card
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD456, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+OrderID: ORD789, Status: CONFIRMED, Total: $270.0, Payment Method: Cash on Delivery
+   -> AC Compressor | BrandX | $120.0 | Qty: 2
+   -> AC Filter | BrandY | $30.0 | Qty: 1
+ORD_1755883580975,PROD1755883561002|Condenser|Denso|199.99|15
+ORD_1755884030484,PROD1755884023463|Condenser|Valeo|199.99|15
+ORD_1755884977475,PROD1755884969351|Condenser|Denso|199.99|15
+ORD_1755885456281,PROD1755885450214|Condenser|Denso|199.99|15
+REORDER_1756228941897,PROD1756228941897|Condenser|Denso|199.99|15
+ORD_1756232524500,PROD1756232519334|Condenser|Four Seasons|220.99|1
+ORD_1756274229205,PROD1756274211527|Condenser|Valeo|199.99|4
+ORD_1756274319596,PROD1756274255491|Condenser|Denso|199.99|7,PROD1756274265198|Cooling Coil|Denso|149.99|5
+ORD_1756275781925,PROD1756275706755|Compressor|Denso|299.99|1,PROD1756275711981|Compressor|Four Seasons|320.99|2,PROD1756275743683|Cooling Coil|Denso|149.99|1
+REORDER_1756276104034,PROD1756276104034|Compressor|Denso|299.99|1,PROD1756276104034|Compressor|Four Seasons|320.99|2,PROD1756276104034|Cooling Coil|Denso|149.99|1
+ORD_1756276600432,PROD1756276564425|Compressor|UAC Sanden|280.99|4
+ORD_1756278134119,PROD1756278085450|Condenser|Valeo|199.99|1,PROD1756278092258|Cooling Coil|UAC Sanden|140.99|4,PROD1756278114463|Condenser|Denso|199.99|1
+REORDER_1756278234966,PROD1756278234966|Condenser|Valeo|199.99|1,PROD1756278234966|Cooling Coil|UAC Sanden|140.99|4,PROD1756278234966|Condenser|Denso|199.99|1
+CART_1756278237918,PROD1756278234966|Condenser|Valeo|199.99|1,PROD1756278234966|Cooling Coil|UAC Sanden|140.99|4,PROD1756278234966|Condenser|Denso|199.99|1
+ORD_1756365250682,PROD1756365141077|Compressor|Spectra Premium|250.99|5,PROD1756365153443|Cooling Coil|Spectra Premium|130.99|11
+REORDER_1756365367073,PROD1756365367073|Condenser|Valeo|199.99|1,PROD1756365367073|Cooling Coil|UAC Sanden|140.99|4,PROD1756365367073|Condenser|Denso|199.99|1
+ORD_1756366032266,PROD1756365972839|Condenser|UAC Sanden|190.99|2
+ORD_1756366251958,PROD1756366215357|Compressor|UAC Sanden|280.99|3

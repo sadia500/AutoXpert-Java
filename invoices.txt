@@ -1,0 +1,809 @@
+INV1747727277808,2025-05-20T12:47:57.841823800,8800.0
+INV1747834233176,2025-05-21T18:30:33.205226800,2300.0
+INV1747834272746,2025-05-21T18:31:12.746414,7800.0
+=== INVOICE ===
+Invoice ID: INV1747888266513
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:31:06
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+=== END INVOICE ===
+
+=== INVOICE ===
+Invoice ID: INV1747888474570
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:34:34
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747888493959
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:34:54
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747888526237
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:35:26
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747888543763
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:35:43
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747888715122
+Customer: Unknown Customer
+Order Date: 2025/05/22 09:38:46
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747890344554
+Customer: Unknown Customer
+Order Date: 2025/05/22 10:05:44
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747905748267
+Customer: Unknown Customer
+Order Date: 2025/05/22 14:22:28
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747906028023
+Customer: Unknown Customer
+Order Date: 2025/05/22 14:27:08
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747906241471
+Customer: Unknown Customer
+Order Date: 2025/05/22 14:30:41
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+=== INVOICE ===
+Invoice ID: INV1747907286673
+Customer: Unknown Customer
+Order Date: 2025/05/22 14:48:06
+------------------------
+Ordered Products:
+- AC Compressor (Qty: 2) - $120.00
+- AC Filter (Qty: 1) - $30.00
+------------------------
+Total Amount: $270.00
+===================
+
+Invoice ID: INV1747916014483
+Customer: John Doe
+Date/Time: 2025/05/22 17:13:34
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x1) - $29.99
+Total: $1029.98
+Payment Method: Not Selected
+-------------------------
+Invoice ID: INV1747916342930
+Customer: John Doe
+Date/Time: 2025/05/22 17:19:02
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Not Selected
+-------------------------
+Invoice ID: INV1747917397928
+Customer: John Doe
+Date/Time: 2025/05/22 17:36:37
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Not Selected
+-------------------------
+Invoice ID: INV1747924894748
+Customer: John Doe
+Date/Time: 2025/05/22 19:41:34
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Not Selected
+-------------------------
+Invoice ID: INV1747925648562
+Customer: John Doe
+Date/Time: 2025/05/22 19:54:08
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Credit Card
+-------------------------
+Invoice ID: INV1747925755961
+Customer: John Doe
+Date/Time: 2025/05/22 19:55:55
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747927631929
+Customer: John Doe
+Date/Time: 2025/05/22 20:27:11
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747931830623
+Customer: John Doe
+Date/Time: 2025/05/22 21:37:10
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747931852469
+Customer: John Doe
+Date/Time: 2025/05/22 21:37:32
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747932554857
+Customer: John Doe
+Date/Time: 2025/05/22 21:49:14
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747932820361
+Customer: John Doe
+Date/Time: 2025/05/22 21:53:40
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747933173555
+Customer: John Doe
+Date/Time: 2025/05/22 21:59:33
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747934426688
+Customer: John Doe
+Date/Time: 2025/05/22 22:20:26
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747934482002
+Customer: John Doe
+Date/Time: 2025/05/22 22:21:22
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747934694781
+Customer: John Doe
+Date/Time: 2025/05/22 22:24:54
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747934714605
+Customer: John Doe
+Date/Time: 2025/05/22 22:25:14
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747937658007
+Customer: John Doe
+Date/Time: 2025/05/22 23:14:18
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747937786401
+Customer: John Doe
+Date/Time: 2025/05/22 23:16:26
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1747953043954
+Customer: John Doe
+Date/Time: 2025/05/23 03:30:43
+Items:
+- Laptop (x1) - $999.99
+- Mouse (x2) - $29.99
+Total: $1059.97
+Payment Method: Credit Card
+-------------------------
+Invoice ID: INV1747973277812
+Customer: John Doe
+Date/Time: 2025/05/23 09:07:57
+Items:
+- Compressor (x1) - $15000.99
+- Condenser (x2) - $29.99
+Total: $15060.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1752569474935
+Customer: John Doe
+Date/Time: 2025/07/15 13:51:14
+Items:
+- Compressor (x1) - $15000.99
+- Condenser (x2) - $29.99
+Total: $15060.97
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755088773813
+Customer: John Doe
+Date/Time: 2025/08/13 17:39:33
+Items:
+- Compressor (x2) - $299.99
+Total: $599.98
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755435504941
+Customer: John Doe
+Date/Time: 2025/08/17 17:58:24
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755503912083
+Customer: John Doe
+Date/Time: 2025/08/18 12:58:32
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755857422824
+Customer: John Doe
+Date/Time: 2025/08/22 15:10:22
+Items:
+- Condenser (x15) - $199.99
+Total: $2999.85
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755860088362
+Customer: John Doe
+Date/Time: 2025/08/22 15:54:48
+Items:
+- Condenser (x14) - $190.99
+- Condenser (x20) - $180.99
+- Cooling Coil (x22) - $140.99
+Total: $9395.44
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755860163970
+Customer: John Doe
+Date/Time: 2025/08/22 15:56:03
+Items:
+- Compressor (x12) - $280.99
+- Condenser (x20) - $180.99
+Total: $6991.68
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755860202892
+Customer: John Doe
+Date/Time: 2025/08/22 15:56:42
+Items:
+- Compressor (x12) - $280.99
+Total: $3371.88
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755867050144
+Customer: John Doe
+Date/Time: 2025/08/22 17:50:50
+Items:
+- Compressor (x10) - $320.99
+Total: $3209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755867769180
+Customer: John Doe
+Date/Time: 2025/08/22 18:02:49
+Items:
+- Cooling Coil (x22) - $140.99
+Total: $3101.78
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755869522855
+Customer: John Doe
+Date/Time: 2025/08/22 18:32:02
+Items:
+- Cooling Coil (x18) - $160.99
+Total: $2897.82
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755869629307
+Customer: John Doe
+Date/Time: 2025/08/22 18:33:49
+Items:
+- Condenser (x15) - $199.99
+Total: $2999.85
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755869753659
+Customer: John Doe
+Date/Time: 2025/08/22 18:35:53
+Items:
+- Compressor (x10) - $320.99
+Total: $3209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755870907085
+Customer: John Doe
+Date/Time: 2025/08/22 18:55:07
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755870979541
+Customer: John Doe
+Date/Time: 2025/08/22 18:56:19
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755886856631
+Customer: John Doe
+Date/Time: 2025/08/22 23:20:56
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755886921914
+Customer: John Doe
+Date/Time: 2025/08/22 23:22:01
+Items:
+- Condenser (x20) - $180.99
+Total: $3619.80
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755933894172
+Customer: John Doe
+Date/Time: 2025/08/23 12:24:54
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755933983780
+Customer: John Doe
+Date/Time: 2025/08/23 12:26:23
+Items:
+- Condenser (x15) - $199.99
+Total: $2999.85
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755941003708
+Customer: John Doe
+Date/Time: 2025/08/23 14:23:23
+Items:
+- Compressor (x10) - $320.99
+Total: $3209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755941124261
+Customer: John Doe
+Date/Time: 2025/08/23 14:25:24
+Items:
+- Condenser (x14) - $190.99
+Total: $2673.86
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755941845913
+Customer: John Doe
+Date/Time: 2025/08/23 14:37:25
+Items:
+- Condenser (x14) - $190.99
+Total: $2673.86
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755943544277
+Customer: John Doe
+Date/Time: 2025/08/23 15:05:44
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755944212570
+Customer: John Doe
+Date/Time: 2025/08/23 15:16:52
+Items:
+- Condenser (x20) - $180.99
+Total: $3619.80
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755952762313
+Customer: John Doe
+Date/Time: 2025/08/23 17:39:22
+Items:
+Total: $0.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755952793549
+Customer: John Doe
+Date/Time: 2025/08/23 17:39:53
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755952873058
+Customer: John Doe
+Date/Time: 2025/08/23 17:41:13
+Items:
+Total: $0.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953039515
+Customer: John Doe
+Date/Time: 2025/08/23 17:43:59
+Items:
+- Condenser (x20) - $180.99
+Total: $3619.80
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953113288
+Customer: John Doe
+Date/Time: 2025/08/23 17:45:13
+Items:
+Total: $0.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953134684
+Customer: John Doe
+Date/Time: 2025/08/23 17:45:34
+Items:
+- AC Compressor (x2) - $120.00
+- AC Filter (x1) - $30.00
+Total: $270.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953209792
+Customer: John Doe
+Date/Time: 2025/08/23 17:46:49
+Items:
+- Condenser (x15) - $199.99
+Total: $2999.85
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953363223
+Customer: John Doe
+Date/Time: 2025/08/23 17:49:23
+Items:
+Total: $0.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953925255
+Customer: John Doe
+Date/Time: 2025/08/23 17:58:45
+Items:
+Total: $0.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755953961299
+Customer: John Doe
+Date/Time: 2025/08/23 17:59:21
+Items:
+- Compressor (x18) - $300.99
+Total: $5417.82
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755954361869
+Customer: John Doe
+Date/Time: 2025/08/23 18:06:01
+Items:
+- Condenser (x10) - $220.99
+Total: $2209.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755954610918
+Customer: John Doe
+Date/Time: 2025/08/23 18:10:10
+Items:
+- Cooling Coil (x20) - $170.99
+Total: $3419.80
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755954964780
+Customer: John Doe
+Date/Time: 2025/08/23 18:16:04
+Items:
+- Condenser (x20) - $180.99
+Total: $197.04
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755955173133
+Customer: John Doe
+Date/Time: 2025/08/23 18:19:33
+Items:
+- Compressor (x10) - $320.99
+- Cooling Coil (x20) - $170.99
+Total: $523.58
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755972097716
+Customer: John Doe
+Date/Time: 2025/08/23 23:01:37
+Items:
+- Condenser (x14) - $190.99
+Total: $207.54
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1755972894116
+Customer: John Doe
+Date/Time: 2025/08/23 23:14:54
+Items:
+- Condenser (x14) - $190.99
+- Condenser (x10) - $220.99
+Total: $1442.28
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756215670907
+Customer: John Doe
+Date/Time: 2025/08/26 18:41:10
+Items:
+- Cooling Coil (x10) - $149.99
+- Compressor (x5) - $300.99
+Total: $7.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756222518226
+Customer: John Doe
+Date/Time: 2025/08/26 20:35:18
+Items:
+- Compressor (x12) - $280.99
+Total: $3547.47
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756222800042
+Customer: John Doe
+Date/Time: 2025/08/26 20:40:00
+Items:
+- Compressor (x20) - $299.99
+Total: $6306.79
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756226201376
+Customer: John Doe
+Date/Time: 2025/08/26 21:36:41
+Items:
+- Compressor (x20) - $299.99
+Total: $3156.90
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756226726798
+Customer: John Doe
+Date/Time: 2025/08/26 21:45:26
+Items:
+- Compressor (x20) - $299.99
+Total: $321.99
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756226957451
+Customer: John Doe
+Date/Time: 2025/08/26 21:49:17
+Items:
+- Condenser (x14) - $190.99
+Total: $207.54
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756227219934
+Customer: John Doe
+Date/Time: 2025/08/26 21:53:39
+Items:
+- Compressor (x1) - $15000.99
+- Condenser (x2) - $29.99
+Total: $7.00
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756227587909
+Customer: John Doe
+Date/Time: 2025/08/26 21:59:47
+Items:
+- Cooling Coil (x30) - $149.99
+Total: $321.98
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756227598354
+Customer: John Doe
+Date/Time: 2025/08/26 21:59:58
+Items:
+- Cooling Coil (x30) - $149.99
+Total: $321.98
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756227658116
+Customer: John Doe
+Date/Time: 2025/08/26 22:00:58
+Items:
+- Condenser (x15) - $199.99
+Total: $216.99
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756232527393
+Customer: John Doe
+Date/Time: 2025/08/26 23:22:07
+Items:
+- Condenser (x10) - $220.99
+Total: $239.04
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756274232724
+Customer: John Doe
+Date/Time: 2025/08/27 10:57:12
+Items:
+- Condenser (x15) - $199.99
+Total: $846.96
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756274323822
+Customer: John Doe
+Date/Time: 2025/08/27 10:58:43
+Items:
+- Condenser (x15) - $199.99
+- Cooling Coil (x30) - $149.99
+Total: $2264.37
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756275813759
+Customer: John Doe
+Date/Time: 2025/08/27 11:23:33
+Items:
+- Compressor (x20) - $299.99
+- Compressor (x10) - $320.99
+- Cooling Coil (x30) - $149.99
+Total: $1153.56
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756276604125
+Customer: John Doe
+Date/Time: 2025/08/27 11:36:44
+Items:
+- Compressor (x12) - $280.99
+Total: $1187.16
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756278137652
+Customer: John Doe
+Date/Time: 2025/08/27 12:02:17
+Items:
+- Condenser (x15) - $199.99
+- Cooling Coil (x22) - $140.99
+- Condenser (x15) - $199.99
+Total: $1019.14
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756278239877
+Customer: John Doe
+Date/Time: 2025/08/27 12:03:59
+Items:
+- Condenser (x1) - $199.99
+- Cooling Coil (x4) - $140.99
+- Condenser (x1) - $199.99
+Total: $1019.14
+Payment Method: Cash on Delivery
+-------------------------
+Invoice ID: INV1756365266611
+Customer: John Doe
+Date/Time: 2025/08/28 12:14:26
+Items:
+- Compressor (x15) - $250.99
+- Cooling Coil (x25) - $130.99
+Total: $2837.63
+Payment Method: Credit Card
+-------------------------
+Invoice ID: INV1756366048012
+Customer: John Doe
+Date/Time: 2025/08/28 12:27:28
+Items:
+- Condenser (x14) - $190.99
+Total: $408.08
+Payment Method: Credit Card
+-------------------------
+Invoice ID: INV1756366255800
+Customer: John Doe
+Date/Time: 2025/08/28 12:30:55
+Items:
+- Compressor (x12) - $280.99
+Total: $892.12
+Payment Method: Cash on Delivery
+-------------------------

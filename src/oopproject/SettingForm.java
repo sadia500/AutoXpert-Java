@@ -1,0 +1,357 @@
+package oopproject;
+import javax.swing.*;
+import java.awt.*;
+import java.io.*;
+
+public class SettingForm extends javax.swing.JFrame {
+    private JTextField emailField;
+    private JPasswordField passwordField;
+    private JCheckBox showPasswordCheckBox;
+    private JButton saveButton;
+    private JButton cancelButton;
+    private JButton contactSupplierButton;
+
+    private String currentAdminEmail;
+    private String currentAdminPassword;
+
+   
+
+
+   public SettingForm() {
+    initComponents(); // Let the GUI builder create the initial layout
+
+    setTitle("Admin Settings");
+    setSize(450, 400);
+    setLocationRelativeTo(null);
+    setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
+    JPanel mainPanel = (JPanel) getContentPane(); // Get the content pane
+    mainPanel.setLayout(new GridBagLayout()); // Set the layout manager
+
+    GridBagConstraints gbc = new GridBagConstraints();
+    gbc.insets = new Insets(5, 5, 5, 5);
+    gbc.fill = GridBagConstraints.HORIZONTAL;
+    gbc.weightx = 1.0;
+    gbc.anchor = GridBagConstraints.WEST;
+
+    // Remove all components added by initComponents
+    jPanel1.removeAll();
+    mainPanel.removeAll();
+
+    // Re-add components with GridBagConstraints
+
+    // Row 0: Title
+    gbc.gridx = 0;
+    gbc.gridy = 0;
+    gbc.gridwidth = 2;
+    gbc.anchor = GridBagConstraints.CENTER;
+    mainPanel.add(jLabel1, gbc);
+
+    // Row 1: Email Label
+    gbc.gridx = 0;
+    gbc.gridy = 1;
+    gbc.gridwidth = 1;
+    gbc.anchor = GridBagConstraints.WEST;
+    mainPanel.add(jLabel2, gbc);
+
+    // Row 1: Email Field
+    gbc.gridx = 1;
+    gbc.gridy = 1;
+    gbc.anchor = GridBagConstraints.EAST;
+    mainPanel.add(jTextField1, gbc);
+    emailField = jTextField1;
+
+    // Row 2: Password Label
+    gbc.gridx = 0;
+    gbc.gridy = 2;
+    gbc.anchor = GridBagConstraints.WEST;
+    mainPanel.add(jLabel3, gbc);
+
+    // Row 2: Password Field
+    gbc.gridx = 1;
+    gbc.gridy = 2;
+    gbc.anchor = GridBagConstraints.EAST;
+    mainPanel.add(jPasswordField1, gbc);
+    passwordField = jPasswordField1;
+
+    // Row 3: Show Password Checkbox
+    gbc.gridx = 1;
+    gbc.gridy = 3;
+    gbc.anchor = GridBagConstraints.EAST;
+    gbc.fill = GridBagConstraints.NONE;
+    mainPanel.add(jCheckBox1, gbc);
+    showPasswordCheckBox = jCheckBox1;
+    gbc.fill = GridBagConstraints.HORIZONTAL; // Reset fill
+
+    // Row 4: Buttons
+    gbc.gridx = 0;
+    gbc.gridy = 4;
+    gbc.gridwidth = 1;
+    gbc.anchor = GridBagConstraints.CENTER;
+    mainPanel.add(saveChanges, gbc);
+    saveButton = saveChanges;
+
+    gbc.gridx = 1;
+    mainPanel.add(jButton2, gbc);
+    cancelButton = jButton2;
+
+    // Row 5: Contact Supplier Button
+    gbc.gridx = 0;
+    gbc.gridy = 5;
+    gbc.gridwidth = 2;
+    mainPanel.add(supplierButton, gbc);
+    contactSupplierButton = supplierButton;
+
+    loadAdminCredentials("admin_settings.txt");
+    jTextField1.setText(currentAdminEmail);
+    jPasswordField1.setText(currentAdminPassword);
+
+    setVisible(true);
+    pack(); // Pack after adding components with layout
+}
+   private void loadAdminCredentials(String filename) {
+        File file = new File(filename);
+        if (!file.exists()) {
+            currentAdminEmail = "kashifkh";
+            currentAdminPassword = "ADMIN123";
+            saveAdminCredentials(filename);
+            return;
+        }
+        try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] parts = line.split("=");
+                if (parts.length == 2) {
+                    if (parts[0].equals("email")) {
+                        currentAdminEmail = parts[1];
+                    } else if (parts[0].equals("password")) {
+                        currentAdminPassword = parts[1];
+                    }
+                }
+            }
+        } catch (IOException e) {
+            JOptionPane.showMessageDialog(this, "Error loading settings: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+            e.printStackTrace();
+            currentAdminEmail = "kashifkh";
+            currentAdminPassword = "ADMIN123";
+        }
+    }
+
+    private void saveAdminCredentials(String filename) {
+        File file = new File(filename);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
+            writer.write("email=" + currentAdminEmail);
+            writer.newLine();
+            writer.write("password=" + currentAdminPassword);
+            JOptionPane.showMessageDialog(this, "Admin settings saved successfully!");
+        } catch (IOException e) {
+            JOptionPane.showMessageDialog(this, "Error saving settings: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The content of this method is always
+     * regenerated by the Form Editor.
+     */
+  
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    private void initComponents() {
+
+        jPanel1 = new javax.swing.JPanel();
+        jLabel1 = new javax.swing.JLabel();
+        jLabel2 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
+        jTextField1 = new javax.swing.JTextField();
+        jPasswordField1 = new javax.swing.JPasswordField();
+        jCheckBox1 = new javax.swing.JCheckBox();
+        saveChanges = new javax.swing.JButton();
+        jButton2 = new javax.swing.JButton();
+        supplierButton = new javax.swing.JButton();
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel1.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
+        jPanel1.setLayout(new java.awt.GridBagLayout());
+
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jLabel1.setText("ADMIN ACCOUNT SETTINGS");
+        jPanel1.add(jLabel1, new java.awt.GridBagConstraints());
+
+        jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        jLabel2.setText("Email");
+        jPanel1.add(jLabel2, new java.awt.GridBagConstraints());
+
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        jLabel3.setText("Password");
+        jPanel1.add(jLabel3, new java.awt.GridBagConstraints());
+
+        jTextField1.setText("email");
+        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField1ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jTextField1, new java.awt.GridBagConstraints());
+
+        jPasswordField1.setText("jPasswordField1");
+        jPanel1.add(jPasswordField1, new java.awt.GridBagConstraints());
+
+        jCheckBox1.setText("Show Password");
+        jCheckBox1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jCheckBox1ActionPerformed(evt);
+            }
+        });
+        jPanel1.add(jCheckBox1, new java.awt.GridBagConstraints());
+
+        saveChanges.setText("SAVE CHANGES");
+        saveChanges.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                saveChangesActionPerformed(evt);
+            }
+        });
+        jPanel1.add(saveChanges, new java.awt.GridBagConstraints());
+
+        jButton2.setText("CANCEL");
+        jPanel1.add(jButton2, new java.awt.GridBagConstraints());
+
+        supplierButton.setText("CONTACT SUPPLIER");
+        supplierButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                supplierButtonActionPerformed(evt);
+            }
+        });
+        jPanel1.add(supplierButton, new java.awt.GridBagConstraints());
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 906, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField1ActionPerformed
+
+    private void jCheckBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox1ActionPerformed
+        // TODO add your handling code here:
+        if (jCheckBox1.isSelected()) {
+            jPasswordField1.setEchoChar((char) 0);
+        } else {
+            jPasswordField1.setEchoChar('*');
+        }
+    }//GEN-LAST:event_jCheckBox1ActionPerformed
+
+    private void saveChangesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveChangesActionPerformed
+        // TODO add your handling code here:
+         String newEmail = jTextField1.getText().trim();
+        String newPassword = new String(jPasswordField1.getPassword()).trim();
+
+        if (newEmail.isEmpty() || newPassword.isEmpty()) {
+            JOptionPane.showMessageDialog(this, "Email and password cannot be empty.", "Error", JOptionPane.ERROR_MESSAGE);
+            return;
+        }
+        currentAdminEmail = newEmail;
+        currentAdminPassword = newPassword;
+        saveAdminCredentials("admin_settings.txt");
+        dispose();
+    }//GEN-LAST:event_saveChangesActionPerformed
+
+    private void supplierButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_supplierButtonActionPerformed
+        // TODO add your handling code here:
+        String supplierName = "Acme Components Inc.";
+        String supplierEmail = "sales@acmecomponents.com";
+        String supplierPhone = "+1-800-ACME-INC";
+
+        String message = "Supplier: " + supplierName + "\n" +
+                         "Email: " + supplierEmail + "\n" +
+                         "Phone: " + supplierPhone;
+
+        JOptionPane.showMessageDialog(SettingForm.this, message, "Contact Supplier", JOptionPane.INFORMATION_MESSAGE);
+    
+        
+    }//GEN-LAST:event_supplierButtonActionPerformed
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String args[]) {
+        /* Set the Nimbus look and feel */
+        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
+         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
+         */
+        try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                }
+            }
+        } catch (ClassNotFoundException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (InstantiationException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        }
+        //</editor-fold>
+        //</editor-fold>
+
+        /* Create and display the form */
+      try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                }
+            }
+        } catch (ClassNotFoundException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (InstantiationException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.util.logging.Logger.getLogger(SettingForm.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        }
+        //</editor-fold>
+        //</editor-fold>
+
+        /* Create and display the form */
+        SwingUtilities.invokeLater(() -> new SettingForm());
+    
+    }
+    
+
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton jButton2;
+    private javax.swing.JCheckBox jCheckBox1;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JPanel jPanel1;
+    private javax.swing.JPasswordField jPasswordField1;
+    private javax.swing.JTextField jTextField1;
+    private javax.swing.JButton saveChanges;
+    private javax.swing.JButton supplierButton;
+    // End of variables declaration//GEN-END:variables
+}

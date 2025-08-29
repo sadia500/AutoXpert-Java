@@ -1,0 +1,98 @@
+TXN1747727277859,8800.0,Card,2025-05-20T12:47:57.859794300
+TXN1747834233223,2300.0,Card,2025-05-21T18:30:33.224236100
+TXN1747834272750,7800.0,Card,2025-05-21T18:31:12.750127900
+Transaction ID: PAY1747916026778, Method: Cash on Delivery, Amount: 1029.98, DateTime: 2025-05-22T17:13:55.129078200
+Transaction ID: PAY1747916347770, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T17:19:09.784407400
+Transaction ID: TXN1747924902861, Method: Not Selected, Amount: 1059.97, DateTime: 2025-05-22T19:41:42.862259100
+Transaction ID: TXN1747925654191, Method: Credit Card, Amount: 1059.97, DateTime: 2025-05-22T19:54:14.191916700
+Transaction ID: TXN1747925758895, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T19:55:58.896461600
+Transaction ID: TXN1747927643041, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T20:27:23.041748400
+Transaction ID: TXN1747932557528, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T21:49:17.528574
+Transaction ID: TXN1747933176237, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T21:59:36.237119800
+Transaction ID: TXN1747937662188, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T23:14:22.188314200
+Transaction ID: TXN1747937791172, Method: Cash on Delivery, Amount: 1059.97, DateTime: 2025-05-22T23:16:31.172292300
+Transaction ID: TXN1747953054572, Method: Credit Card, Amount: 1059.97, DateTime: 2025-05-23T03:30:54.573449700
+Transaction ID: TXN1747973286797, Method: Cash on Delivery, Amount: 15060.97, DateTime: 2025-05-23T09:08:06.797209600
+Transaction ID: TXN1752569482840, Method: Cash on Delivery, Amount: 15060.97, DateTime: 2025-07-15T13:51:22.840774600
+Transaction ID: TXN1755088789630, Method: Cash on Delivery, Amount: 599.98, DateTime: 2025-08-13T17:39:49.630401
+Transaction ID: TXN1755435513158, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-17T17:58:33.158554300
+Transaction ID: TXN1755857514074, Method: Cash on Delivery, Amount: 2999.8500000000004, DateTime: 2025-08-22T15:11:54.075546400
+Transaction ID: TXN1755860091225, Method: Cash on Delivery, Amount: 9395.44, DateTime: 2025-08-22T15:54:51.225863200
+Transaction ID: TXN1755860165478, Method: Cash on Delivery, Amount: 6991.68, DateTime: 2025-08-22T15:56:05.478816100
+Transaction ID: TXN1755860205107, Method: Cash on Delivery, Amount: 3371.88, DateTime: 2025-08-22T15:56:45.107069700
+Transaction ID: TXN1755867055087, Method: Cash on Delivery, Amount: 3209.9, DateTime: 2025-08-22T17:50:55.087368900
+TX123,Credit Card,150.0,2025/08/22 18:14:40,John Doe,AC Compressor (x2) - $120.00|AC Filter (x1) - $30.00|
+TX123,Credit Card,150.0,2025/08/22 18:15:12,John Doe,AC Compressor (x2) - $120.00|AC Filter (x1) - $30.00|
+Transaction ID: TXN1755869530598, Method: Cash on Delivery, Amount: 2897.82, DateTime: 2025-08-22T18:32:10.598726300
+TXN1755869530598,Cash on Delivery,2897.82,2025/08/22 18:32:10,John Doe,Cooling Coil (x18) - $160.99|
+Transaction ID: TXN1755869634356, Method: Cash on Delivery, Amount: 2999.8500000000004, DateTime: 2025-08-22T18:33:54.356068
+TXN1755869634356,Cash on Delivery,2999.8500000000004,2025/08/22 18:33:54,John Doe,Condenser (x15) - $199.99|
+Transaction ID: TXN1755869758337, Method: Cash on Delivery, Amount: 3209.9, DateTime: 2025-08-22T18:35:58.338678200
+TXN1755869758337,Cash on Delivery,3209.9,2025/08/22 18:35:58,John Doe,Compressor (x10) - $320.99|
+Transaction ID: TXN1755870913037, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-22T18:55:13.037689
+TXN1755870913037,Cash on Delivery,2209.9,2025/08/22 18:55:13,John Doe,Condenser (x10) - $220.99|
+TXN1755870913037,Cash on Delivery,2209.9,2025/08/22 18:55:13,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1755870984091, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-22T18:56:24.091727900
+TXN1755870984091,Cash on Delivery,2209.9,2025/08/22 18:56:24,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1755886858746, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-22T23:20:58.746024800
+TXN1755886858746,Cash on Delivery,2209.9,2025/08/22 23:20:58,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1755886927944, Method: Cash on Delivery, Amount: 3619.8, DateTime: 2025-08-22T23:22:07.944874300
+TXN1755886927944,Cash on Delivery,3619.8,2025/08/22 23:22:07,John Doe,Condenser (x20) - $180.99|
+Transaction ID: TXN1755933895988, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-23T12:24:55.988457500
+TXN1755933895988,Cash on Delivery,2209.9,2025/08/23 12:24:55,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1755933990697, Method: Cash on Delivery, Amount: 2999.8500000000004, DateTime: 2025-08-23T12:26:30.697834700
+TXN1755933990697,Cash on Delivery,2999.8500000000004,2025/08/23 12:26:30,John Doe,Condenser (x15) - $199.99|
+Transaction ID: TXN1755941057475, Method: Cash on Delivery, Amount: 3209.9, DateTime: 2025-08-23T14:24:17.475394700
+TXN1755941057475,Cash on Delivery,3209.9,2025/08/23 14:24:17,John Doe,Compressor (x10) - $320.99|
+Transaction ID: TXN1755941127103, Method: Cash on Delivery, Amount: 2673.86, DateTime: 2025-08-23T14:25:27.103815200
+TXN1755941127103,Cash on Delivery,2673.86,2025/08/23 14:25:27,John Doe,Condenser (x14) - $190.99|
+Transaction ID: TXN1755941850838, Method: Cash on Delivery, Amount: 2673.86, DateTime: 2025-08-23T14:37:30.838016100
+TXN1755941850838,Cash on Delivery,2673.86,2025/08/23 14:37:30,John Doe,Condenser (x14) - $190.99|
+Transaction ID: TXN1755944296064, Method: Cash on Delivery, Amount: 3619.8, DateTime: 2025-08-23T15:18:16.064219300
+Transaction ID: TXN1755953045316, Method: Cash on Delivery, Amount: 3619.8, DateTime: 2025-08-23T17:44:05.316515500
+TXN1755953045316,Cash on Delivery,3619.8,2025/08/23 17:44:05,John Doe,Condenser (x20) - $180.99|
+Transaction ID: TXN1755953233513, Method: Cash on Delivery, Amount: 2999.8500000000004, DateTime: 2025-08-23T17:47:13.514502400
+Transaction ID: TXN1755953968769, Method: Cash on Delivery, Amount: 5417.82, DateTime: 2025-08-23T17:59:28.770737800
+Transaction ID: TXN1755954366419, Method: Cash on Delivery, Amount: 2209.9, DateTime: 2025-08-23T18:06:06.419838500
+TXN1755954366419,Cash on Delivery,2209.9,2025/08/23 18:06:06,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1755954967921, Method: Cash on Delivery, Amount: 197.0395, DateTime: 2025-08-23T18:16:07.921977800
+TXN1755954967921,Cash on Delivery,197.0395,2025/08/23 18:16:07,John Doe,Condenser (x20) - $180.99|
+Transaction ID: TXN1755955178604, Method: Cash on Delivery, Amount: 523.5790000000001, DateTime: 2025-08-23T18:19:38.604157700
+TXN1755955178604,Cash on Delivery,523.5790000000001,2025/08/23 18:19:38,John Doe,Compressor (x10) - $320.99|Cooling Coil (x20) - $170.99|
+Transaction ID: TXN1755972099158, Method: Cash on Delivery, Amount: 207.5395, DateTime: 2025-08-23T23:01:39.158174700
+TXN1755972099158,Cash on Delivery,207.5395,2025/08/23 23:01:39,John Doe,Condenser (x14) - $190.99|
+Transaction ID: TXN1755972895301, Method: Cash on Delivery, Amount: 1442.2765000000002, DateTime: 2025-08-23T23:14:55.301518500
+TXN1755972895301,Cash on Delivery,1442.2765000000002,2025/08/23 23:14:55,John Doe,Condenser (x14) - $190.99|Condenser (x10) - $220.99|
+TXN1755972895301,Cash on Delivery,1442.2765000000002,2025/08/23 23:14:55,John Doe,Condenser (x14) - $190.99|Condenser (x10) - $220.99|
+Transaction ID: TXN1756222524746, Method: Cash on Delivery, Amount: 3547.474, DateTime: 2025-08-26T20:35:24.746348300
+TXN1756222524746,Cash on Delivery,3547.474,2025/08/26 20:35:24,John Doe,Compressor (x12) - $280.99|
+TXN1756222524746,Cash on Delivery,3547.474,2025/08/26 20:35:24,John Doe,Compressor (x12) - $280.99|
+Transaction ID: TXN1756222803607, Method: Cash on Delivery, Amount: 6306.79, DateTime: 2025-08-26T20:40:03.607265500
+TXN1756222803607,Cash on Delivery,6306.79,2025/08/26 20:40:03,John Doe,Compressor (x20) - $299.99|
+Transaction ID: TXN1756226205196, Method: Cash on Delivery, Amount: 3156.895, DateTime: 2025-08-26T21:36:45.196165
+TXN1756226205196,Cash on Delivery,3156.895,2025/08/26 21:36:45,John Doe,Compressor (x20) - $299.99|
+Transaction ID: TXN1756226729397, Method: Cash on Delivery, Amount: 321.9895, DateTime: 2025-08-26T21:45:29.397561100
+TXN1756226729397,Cash on Delivery,321.9895,2025/08/26 21:45:29,John Doe,Compressor (x20) - $299.99|
+Transaction ID: TXN1756226959561, Method: Cash on Delivery, Amount: 207.5395, DateTime: 2025-08-26T21:49:19.561842300
+TXN1756226959561,Cash on Delivery,207.5395,2025/08/26 21:49:19,John Doe,Condenser (x14) - $190.99|
+Transaction ID: TXN1756227599869, Method: Cash on Delivery, Amount: 321.97900000000004, DateTime: 2025-08-26T21:59:59.869000100
+Transaction ID: TXN1756227659594, Method: Cash on Delivery, Amount: 216.98950000000002, DateTime: 2025-08-26T22:00:59.594081200
+TXN1756227659594,Cash on Delivery,216.98950000000002,2025/08/26 22:00:59,John Doe,Condenser (x15) - $199.99|
+Transaction ID: TXN1756232529351, Method: Cash on Delivery, Amount: 239.0395, DateTime: 2025-08-26T23:22:09.351842700
+TXN1756232529351,Cash on Delivery,239.0395,2025/08/26 23:22:09,John Doe,Condenser (x10) - $220.99|
+Transaction ID: TXN1756274234866, Method: Cash on Delivery, Amount: 846.9580000000001, DateTime: 2025-08-27T10:57:14.866687600
+TXN1756274234866,Cash on Delivery,846.9580000000001,2025/08/27 10:57:14,John Doe,Condenser (x15) - $199.99|
+Transaction ID: TXN1756274326142, Method: Cash on Delivery, Amount: 2264.3740000000003, DateTime: 2025-08-27T10:58:46.142550800
+TXN1756274326142,Cash on Delivery,2264.3740000000003,2025/08/27 10:58:46,John Doe,Condenser (x15) - $199.99|Cooling Coil (x30) - $149.99|
+Transaction ID: TXN1756275818235, Method: Cash on Delivery, Amount: 1153.558, DateTime: 2025-08-27T11:23:38.235500700
+TXN1756275818235,Cash on Delivery,1153.558,2025/08/27 11:23:38,John Doe,Compressor (x20) - $299.99|Compressor (x10) - $320.99|Cooling Coil (x30) - $149.99|
+Transaction ID: TXN1756276605207, Method: Cash on Delivery, Amount: 1187.1580000000001, DateTime: 2025-08-27T11:36:45.207174900
+TXN1756276605207,Cash on Delivery,1187.1580000000001,2025/08/27 11:36:45,John Doe,Compressor (x12) - $280.99|
+Transaction ID: TXN1756278140125, Method: Cash on Delivery, Amount: 1019.1370000000001, DateTime: 2025-08-27T12:02:20.125618800
+TXN1756278140125,Cash on Delivery,1019.1370000000001,2025/08/27 12:02:20,John Doe,Condenser (x15) - $199.99|Cooling Coil (x22) - $140.99|Condenser (x15) - $199.99|
+Transaction ID: TXN1756365270785, Method: Credit Card, Amount: 2837.632, DateTime: 2025-08-28T12:14:30.785111900
+TXN1756365270785,Credit Card,2837.632,2025/08/28 12:14:30,John Doe,Compressor (x15) - $250.99|Cooling Coil (x25) - $130.99|
+Transaction ID: TXN1756366050449, Method: Credit Card, Amount: 408.079, DateTime: 2025-08-28T12:27:30.450007600
+TXN1756366050449,Credit Card,408.079,2025/08/28 12:27:30,John Doe,Condenser (x14) - $190.99|
+Transaction ID: TXN1756366257466, Method: Cash on Delivery, Amount: 892.1185, DateTime: 2025-08-28T12:30:57.466964300
+TXN1756366257466,Cash on Delivery,892.1185,2025/08/28 12:30:57,John Doe,Compressor (x12) - $280.99|
