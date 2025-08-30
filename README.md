@@ -66,6 +66,6 @@ java Main
 
 <b>Sadia Saeed </b>(Leader)
 
-<b>Maheen Fatima(maheennfatima)</b>
+<b>Maheen Fatima</b>(https://github.com/maheennfatima)
 
-<b> Kumail Abbas Tabassum(kumail-1340) </b>
+<b> Kumail Abbas Tabassum </b>(https://github.com/Kumail-1340)
