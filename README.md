@@ -57,9 +57,13 @@ java Main
 ## Usage
 
 <b> Login/Register: </b>Secure authentication to access dashboards.
+
 <b> Customer Dashboard:</b> Search parts, add to cart, view cart, place orders, and manage profile.
+
 <b> Admin Dashboard:</b> Manage inventory, view analytics, process transactions, and generate invoices.
+
 <b> Product Categories:</b> Includes Cooling Coils, Compressors, and Condensers with brand options.
+
 <b>Transactions:</b> Handle payments and invoices for every order.
 
 ## Contributors
